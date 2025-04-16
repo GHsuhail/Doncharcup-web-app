@@ -34,8 +34,13 @@ Screens:
 7. **Academic Plan** 
 - Includes start/end dates for (semester, exams) + official holidays ,this field is set by the head office at the beginning of each semester.
 ---
-
-8. **Change Password Screen**
+8. **Student Filtring Screen** 
+- This screen will help professors to filter students according to
+    1. their major/year
+    2. list students who take certain lesson/s
+    3. view students under the supervison of the professor.
+---
+9. **Change Password Screen**
 ---
 #### Glance over the features of other dashboards: 
   
