@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1Head Office Dashboard</h1>
+<h1>Head Office Dashboard</h1>
 <p>
  Professor Dashboard is made up of <b>7</b> screens
 </p>
