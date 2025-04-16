@@ -11,7 +11,7 @@
 Screens:
 ---
 1. **Inbox Screen**  
--Send/Receive Messages to/from Any User On The System.
+- Send/Receive Messages to/from Any User On The System.
 ---
 2. **Lessons Table Screen**
 - Shows the time and day of each lesson assigned to the loggedin professor.
