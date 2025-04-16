@@ -2,7 +2,7 @@
 
 <h1>Student Affairs Dashboard</h1>
 <p>
- Student Affairs Dashboard is made up of <b>7</b> screens
+ Student Affairs Dashboard is made up of <b>9</b> screens
 </p>
 
 </div>
@@ -37,6 +37,10 @@ Screens:
 - the head office set the Academic plan at the beginning of each semester, which include start/end dates for semesterand exams + official holidays.
 ---
 8. **Set Supervision (per profession, per year)**
+---
+9. **Set Lesson Info.**  
+- Setting Day,Time for each lesson will be done though this screen
+  
 ---
 
 #### Glance over the features of other dashboards: 
