@@ -43,3 +43,14 @@ Screens:
 10. **Change Password Screen**
 ---
 
+#### Glance over the features of other dashboards: 
+  
+- [common login screen shared by all types of users in the system](./docs/Login-Screen.md)
+
+- [Teacher dashboard](./docs/Professor-App.md)
+
+- [Student Affairs Office dashboard](./docs/Student-Affairs-App.md)
+
+- [Head Office dashboard](./docs/Head-Office-App.md)
+
+
