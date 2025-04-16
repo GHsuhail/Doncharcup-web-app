@@ -11,7 +11,7 @@
 Screens:
 ---
 1. **Inbox Screen**  
--Send/Receive Messages to/from Any User On The System.
+- Send/Receive Messages to/from Any User On The System.
 ---
 2. **Transcript Screen**
 - From this screen students can view/download their transcript when ever they want.
