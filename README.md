@@ -17,7 +17,7 @@ System Over View
 
 ### Doncharcup University system consists of:
 
-- [A common login screen shared by all types of users in the system](./docs/Student-Affairs-App.md)
+- [A common login screen shared by all types of users in the system](./docs/Login-Screen.md)
 
 - [Student dashboard](./docs/Student-App.md)
 
