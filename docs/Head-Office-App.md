@@ -11,7 +11,7 @@
 Screens:
 ---
 1. **Inbox Screen**  
--Send/Receive Messages to/from Any User On The System.
+- Send/Receive Messages to/from Any User On The System.
 ---
 2. **Forgot Password Screen**
 - setting new passwords for students/professors who forgot their passwords.
@@ -22,7 +22,7 @@ Screens:
 4.**Hier/Fire Screen**
 - adding new teachers to the system or deleting existing ones.   
 ---
-5. **Adjust Personal Info. Screen **
+5. **Adjust Personal Info. Screen**
 - Changing Personal Info for both students and professors will be done within this screen.
 ---
 
